@@ -10,5 +10,5 @@ chords = [
 	['B','D','F','A']
 ];
 
-console.log("Find all the diatonic chords of key C");
+console.log("Find all the diatonic chords' opposites (in C major key)");
 chords.map((chord) => console.log(chord,' => ',findOppositeChord('C',chord)));
