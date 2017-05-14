@@ -17,7 +17,7 @@ That will give you the opposite chord of an E7 chord (in the 'C' tonality).
 This is the index.js output:
 
 ```
-Find all the diatonic chords of key C
+Find all the diatonic chords' opposites (in C major key)
 
 [ 'C', 'E', 'G', 'B' ] ' => ' [ 'G', 'Eb', 'C', 'Ab' ]
 
