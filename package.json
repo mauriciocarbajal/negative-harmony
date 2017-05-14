@@ -1,0 +1,19 @@
+{
+  "name": "negative-harmony",
+  "version": "1.0.0",
+  "description": "Simple node application that allows you to calculate the opposite chord, for a given axis (acording to Jacob Collier's great explanation of this theory)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciocarbajal/negative-harmony.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauriciocarbajal/negative-harmony/issues"
+  },
+  "homepage": "https://github.com/mauriciocarbajal/negative-harmony#readme"
+}
