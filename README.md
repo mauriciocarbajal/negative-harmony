@@ -2,7 +2,7 @@
 
 So, what is this 'negative harmony' thing?
 
-Just watch: https://youtu.be/DnBr070vcNE?t=2m21s
+Just watch this Jacob Collier's fantastic interview by June Lee: https://youtu.be/DnBr070vcNE?t=2m21s
 
 This is a simple tool to explore negative harmony in a decent time (of course, if you happen to be other than Jacob!).
 
